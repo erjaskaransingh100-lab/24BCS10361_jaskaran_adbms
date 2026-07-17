@@ -151,6 +151,10 @@ SELECT * FROM Appointments WHERE AppointmentID = 1;
 
 The output confirms that the queries were executed successfully.
 ```
+## EXPERIMENT OUTPUT
+
+![Experiment Output](image.png)
+
 
 ## Image Explanation
 
